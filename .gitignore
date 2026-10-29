@@ -1,0 +1,27 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Generated output
+figures/
+*.html
+
+# Duplicate copies of data/ outputs (kept locally, not published)
+3D_Shape_Matching_Ernald_Shehaj/src/mapping.csv
+3D_Shape_Matching_Ernald_Shehaj/src/matching_results.csv
+
+# LaTeX build files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.log
+*.out
+*.run.xml
+*.synctex.gz
+*.toc

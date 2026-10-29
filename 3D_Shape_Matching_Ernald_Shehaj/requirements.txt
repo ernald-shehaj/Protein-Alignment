@@ -1,0 +1,8 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+biopandas>=0.5
+prody>=2.4
+graphein>=1.7
+networkx>=3.0
+plotly>=5.0
